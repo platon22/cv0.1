@@ -5,4 +5,4 @@
 1. I am currently taking courses at the **RS school**.
 1. Experience. Junior Dev.
 1. My English level is A1
-1. On weekends, because of walking around Minsk, there is a great opportunity to be in a paddy wagon.
+1. On weekends, because of walking around **Minsk**, there is a great opportunity to be in a paddy wagon.
